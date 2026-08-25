@@ -1,0 +1,6 @@
+.git
+.gitignore
+.env
+bin/
+README.md
+*.md

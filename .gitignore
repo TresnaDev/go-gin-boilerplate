@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+
+# Build output
+bin/
+
+# OS & editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Go test cache
+*.test
+*.out

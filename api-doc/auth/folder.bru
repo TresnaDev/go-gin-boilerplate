@@ -1,0 +1,11 @@
+meta {
+  name: auth
+}
+
+auth {
+  mode: inherit
+}
+
+vars:pre-request {
+  auth_url: {{url}}/auth
+}

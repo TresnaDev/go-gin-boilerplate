@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "go-rest-boilerplate",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
